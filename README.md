@@ -1,5 +1,5 @@
-# Metrics matter: Why silhouette fails to score single-cell data integration
-This GitHub repository contains code, data, and environment configuration files for reproducing the analyses and figures of the manuscript: "Metrics matter: Why silhouette fails to score single-cell data integration."
+# Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking
+This GitHub repository contains code, data, and environment configuration files for reproducing the analyses and figures of the manuscript: "Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking."
 
 ## Repository Structure
 Due to reorganizing the scripts in the directory structure for improved readability, absolute and relative paths may be incorrect but can be inferred from the directory structure and naming conventions.
