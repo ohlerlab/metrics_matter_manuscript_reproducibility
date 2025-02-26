@@ -29,7 +29,7 @@ model_param_mapping['Liam_x1']['Liam_params'] = {'adversarial_training': True, '
 model_param_mapping['Liam_x5'] = {}
 model_param_mapping['Liam_x5']['setup_anndata_params'] = {'batch_key': 'sample', 'rna_only': True}
 model_param_mapping['Liam_x5']['Liam_params'] = {'adversarial_training': True, 'n_latent': 20,
-                                                      'rna_only': True, 'factor_adversarial_loss': 10.0}
+                                                      'rna_only': True, 'factor_adversarial_loss': 5.0}
 
 # Train models
 for model in model_param_mapping.keys():
