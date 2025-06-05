@@ -1,5 +1,5 @@
 # Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking
-This GitHub repository contains code, data, and environment configuration files for reproducing the analyses and figures of the manuscript: "Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking."
+This GitHub repository contains code, data, and environment configuration files for reproducing the analyses and figures of the manuscript: "Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking." [[1]](#1)
 
 ## Repository Structure
 Due to reorganizing the scripts in the directory structure for improved readability, absolute and relative paths may be incorrect but can be inferred from the directory structure and naming conventions.
@@ -28,3 +28,7 @@ Analyses and figures related to Supplementary Note 1 can be found in files conta
 
 ## Getting Started
 YAML files for conda environments are in the ```config``` directory.
+
+## References
+<a id="1">[1]</a>
+Rautenstrauch, P. & Ohler, U. (2025) [Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking](https://doi.org/10.1101/2025.01.21.634098). bioRxiv DOI: 10.1101/2025.01.21.634098
