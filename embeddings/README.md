@@ -1,0 +1,1 @@
+To support reproducibility, we provide the integration method output embeddings generated as part of the research presented in the manuscript "Shortcomings of Silhouette in Single-Cell Integration Benchmarking." Due to GitHub's file size limits, we made these embeddings available on Zenodo (DOI: [10.5281/zenodo.15705864](https://doi.org/10.5281/zenodo.15705864)).
