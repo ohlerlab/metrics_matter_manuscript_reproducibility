@@ -7,7 +7,7 @@ This GitHub repository contains code, data, and environment configuration files 
 > Note: The directory structure has been reorganized for clarity. Some absolute and relative paths in scripts may need adjustment, but can be inferred from the structure and naming conventions below.
 
 ```
-metrics_chapter/
+metrics_matter_manuscript_reproducibility/
 ├── configs/         # Conda YAML environment files
 ├── data/            # Contains both simulated data and sources of original data
 │   ├── original/    # Sources of original data
