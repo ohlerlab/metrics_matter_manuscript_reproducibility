@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15642298.svg)](https://doi.org/10.5281/zenodo.15642298)
 
 # Shortcomings of Silhouette in Single-Cell Integration Benchmarking
-This GitHub repository contains code, data, and environment configuration files for reproducing the analyses and figures of the manuscript: "Shortcomings of Silhouette in Single-Cell Integration Benchmarking.", a revised version of the preprint "Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking." [[1]](#1)
+This GitHub repository contains code, data, and environment configuration files for reproducing the analyses and figures of the manuscript: "Shortcomings of Silhouette in Single-Cell Integration Benchmarking." [[1]](#1), a revised version of the preprint "Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking." [[2]](#2)
 
 ## Repository Structure
 > Note: The directory structure has been reorganized for clarity. Some absolute and relative paths in scripts may need adjustment, but can be inferred from the structure and naming conventions below.
@@ -54,6 +54,9 @@ Find and example custom CiLISI implementations in `scripts/simulation/Evaluate_s
 
 ## References
 <a id="1">[1]</a>
+Rautenstrauch, P. & Ohler, U. (2025) [Shortcomings of silhouette in single-cell integration benchmarking](https://doi.org/10.1038/s41587-025-02743-4). Nat Biotechnol DOI: 10.1038/s41587-025-02743-4
+
+<a id="2">[2]</a>
 Rautenstrauch, P. & Ohler, U. (2025) [Metrics Matter: Why We Need to Stop Using Silhouette in Single-Cell Benchmarking](https://doi.org/10.1101/2025.01.21.634098). bioRxiv DOI: 10.1101/2025.01.21.634098
 
 ---
